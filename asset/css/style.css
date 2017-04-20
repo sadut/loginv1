@@ -1,0 +1,17 @@
+body {
+  background: url('../img/bg.jpg') center center;
+}
+
+.panel-login{
+  margin: 100px 0 0 0;
+  border: none;
+  opacity: 0.9 !important;
+}
+
+.btn-masuk{
+  width: 100px;
+  border: none;
+  padding: 10px;
+  background: #00897b;
+  color: #fff;
+}
